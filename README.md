@@ -5,16 +5,12 @@ My name is Brenda Ferrari and I am chemistry PhD student working on my bio/chemi
 **About me!**
 
 * 👨🏽‍💻 I am currently working in a drug development project
-
 * 🌱 I am currently learning more about Python applied in Data Science
-
 * 📝 I am also writing a [blog](https://brendaferrari.github.io/chemdata/)
-
 * 🤔 My interests includes using Python, Data Science techniques to solve chemistry problems. I also have interest in Storytelling
-
 * 💼 I am pursuing a PhD in chemistry 
-
 * 💬 Ask me about anything, I love to answer!
+* ⚡ Fun fact: I ❤️ 🐱s
 
 
 #### Programming Languages
@@ -37,3 +33,9 @@ My name is Brenda Ferrari and I am chemistry PhD student working on my bio/chemi
 
 
 ![brendaferrari's GitHub stats](https://github-readme-stats.vercel.app/api?username=brendaferrari&show_icons=true&theme=jolly)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=brendaferrari&layout=compact)](https://github.com/brendaferrari/github-readme-stats)
+
+### 📕 Latest Blog Posts
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
