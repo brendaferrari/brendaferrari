@@ -2,6 +2,20 @@
 
 My name is Brenda Ferrari and I am chemistry PhD student working on my bio/cheminformatics skills. I write codes and blog posts to share concepts I have learned! If you're interested to learn with my codes feel free to explore!
 
+**About me!**
+
+* 👨🏽‍💻 I am currently working in a drug development project
+
+* 🌱 I am currently learning more about Python applied in Data Science
+
+* 📝 I am also writing a [blog](https://brendaferrari.github.io/chemdata/)
+
+* 🤔 My interests includes using Python, Data Science techniques to solve chemistry problems. I also have interest in Storytelling
+
+* 💼 I am pursuing a PhD in chemistry 
+
+* 💬 Ask me about anything, I love to answer!
+
 
 #### Programming Languages
 
@@ -12,7 +26,7 @@ My name is Brenda Ferrari and I am chemistry PhD student working on my bio/chemi
 #### IDEs/Editors
 
 ![Visual Studio Code](https://img.shields.io/badge/VisualStudioCode-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![IntelliJ IDEA](https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)
+![Jupyter Notebook](https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=for-the-badge&logo=jupyter&logoColor=white)
 
 #### ML/DL
 
@@ -21,7 +35,5 @@ My name is Brenda Ferrari and I am chemistry PhD student working on my bio/chemi
 ![SciPy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white)
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
 
-<p align="center">
 
 ![brendaferrari's GitHub stats](https://github-readme-stats.vercel.app/api?username=brendaferrari&show_icons=true&theme=jolly)
-</p>
