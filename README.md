@@ -6,4 +6,4 @@ My name is Brenda Ferrari and I am chemistry PhD student working on my bio/chemi
 
 
 
-[<img src="https://spotify-now-playing.satyu.vercel.app/api/spotify-playing" alt="Spotify Now Playing" width="350" style="float: left; margin-right: 10px;" />](https://open.spotify.com/user/rwjlz2hcgvhmrxqobh1jf7hu6)
+[<img src="https://api.spotify.com/v1/me/player/currently-playing" alt="Spotify Now Playing" width="350" style="float: left; margin-right: 10px;" />](https://open.spotify.com/user/rwjlz2hcgvhmrxqobh1jf7hu6)
