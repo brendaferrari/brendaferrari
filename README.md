@@ -12,6 +12,14 @@ My name is Brenda Ferrari and I am chemistry PhD student working on my bio/chemi
 * 💼 I am pursuing a PhD in chemistry 
 * 💬 Ask me about anything, I love to answer!
 * ⚡ Fun fact: I ❤️ 🐱s
+
+#### **Connect with me:**
+
+<a href="https://www.linkedin.com/in/brenda-ferrari-b04bb2b4/"><img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" width="30px" alt="linkedin"></a>
+&nbsp; &nbsp;
+<a href="https://brendaferrari.github.io/chemdata/"><img src="https://www.pngfind.com/pngs/m/269-2693798_png-file-svg-blog-vector-icon-png-transparent.png" width="30px" alt="mail"></a> 
+&nbsp; &nbsp;
+
 ---
 #### Programming Languages
 
@@ -33,12 +41,6 @@ My name is Brenda Ferrari and I am chemistry PhD student working on my bio/chemi
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
 
 ---
-### Connect with me
-
-<a href="https://www.linkedin.com/in/brenda-ferrari-b04bb2b4/"><img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" width="30px" alt="linkedin"></a>
-&nbsp; &nbsp;
-<a href="https://brendaferrari.github.io/chemdata/"><img src="https://www.pngfind.com/pngs/m/269-2693798_png-file-svg-blog-vector-icon-png-transparent.png" width="30px" alt="mail"></a> 
-&nbsp; &nbsp;
 
 ![brendaferrari's GitHub stats](https://github-readme-stats.vercel.app/api?username=brendaferrari&show_icons=true&theme=jolly)
 
