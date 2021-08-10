@@ -2,6 +2,7 @@
 
 My name is Brenda Ferrari and I am chemistry PhD student working on my bio/cheminformatics skills. I write codes and blog posts to share concepts I have learned! If you're interested to learn with my codes feel free to explore!
 
+---
 **About me!**
 
 * 👨🏽‍💻 I am currently working in a drug development project
@@ -11,13 +12,13 @@ My name is Brenda Ferrari and I am chemistry PhD student working on my bio/chemi
 * 💼 I am pursuing a PhD in chemistry 
 * 💬 Ask me about anything, I love to answer!
 * ⚡ Fun fact: I ❤️ 🐱s
-
-
+---
 #### Programming Languages
 
 ![Python](https://img.shields.io/badge/python-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white)
 ![Shell Script](https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)
 ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)
+---
 
 #### IDEs/Editors
 
@@ -31,11 +32,21 @@ My name is Brenda Ferrari and I am chemistry PhD student working on my bio/chemi
 ![SciPy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white)
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
 
+---
+### Connect with me
+
+<a href="https://www.linkedin.com/in/brenda-ferrari-b04bb2b4/"><img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" width="30px" alt="linkedin"></a>
+&nbsp; &nbsp;
+<a href="https://brendaferrari.github.io/chemdata/"><img src="https://www.pngfind.com/pngs/m/269-2693798_png-file-svg-blog-vector-icon-png-transparent.png" width="30px" alt="mail"></a> 
+&nbsp; &nbsp;
 
 ![brendaferrari's GitHub stats](https://github-readme-stats.vercel.app/api?username=brendaferrari&show_icons=true&theme=jolly)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=brendaferrari&layout=compact)](https://github.com/brendaferrari/github-readme-stats)
 
+---
 ### 📕 Latest Blog Posts
+
+[Welcome to my blog!](https://brendaferrari.github.io/chemdata/2021/08/05/welcome-to-my-blog/)
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
