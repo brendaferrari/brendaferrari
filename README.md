@@ -52,5 +52,6 @@ My name is Brenda Ferrari and I am chemistry PhD student working on my bio/chemi
 ### 📕 Latest Blog Posts
 
 [Welcome to my blog!](https://brendaferrari.github.io/chemdata/2021/08/05/welcome-to-my-blog/)
+[Interactive plot for molecules](https://brendaferrari.github.io/chemdata/2021/08/17/interactive-plot-for-molecules/)
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
