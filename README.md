@@ -1,8 +1,16 @@
-### Hi there 👋
+<p align="center">
+<img align="center" style="width: 200px" src="https://media3.giphy.com/media/SScTyz7dQ0Gf7c9dZ9/giphy.gif?cid=790b7611e235e1f0e6a299a63507391477b96bb30e99e894&rid=giphy.gif&ct=g" />
+</p>
+
+
+## Hi there 👋
+
 
 My name is Brenda Ferrari and I am chemistry PhD student working on my bio/cheminformatics skills. I write codes and blog posts to share concepts I have learned! If you're interested to learn with my codes feel free to explore!
 
+
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fbrendaferrari&count_bg=%2379C83D&title_bg=%23555555&icon=atom.svg&icon_color=%23E7E7E7&title=visitors&edge_flat=false)](https://hits.seeyoufarm.com)
+
 
 ---
 **About me!**
